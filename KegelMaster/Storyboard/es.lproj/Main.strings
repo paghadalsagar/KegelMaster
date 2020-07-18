@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "Day 1"; ObjectID = "2Ys-Fs-ATK"; */
+"2Ys-Fs-ATK.text" = "Día 1";
+
+/* Class = "UILabel"; text = "Repetition: X4"; ObjectID = "2i6-0f-sWj"; */
+"2i6-0f-sWj.text" = "Repetición: X4";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6HN-Ef-Mfb"; */
+"6HN-Ef-Mfb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Tense"; ObjectID = "A3J-2T-Knp"; */
+"A3J-2T-Knp.text" = "Tenso";
+
+/* Class = "UILabel"; text = "Help Tutorial"; ObjectID = "Dv4-LW-ZL6"; */
+"Dv4-LW-ZL6.text" = "Tutorial de ayuda";
+
+/* Class = "UILabel"; text = "Kegel"; ObjectID = "Fkd-yS-Put"; */
+"Fkd-yS-Put.text" = "Kegel";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "GxH-bL-EI2"; */
+"GxH-bL-EI2.title" = "Configuraciones";
+
+/* Class = "UILabel"; text = "Level 1"; ObjectID = "HwX-hQ-Y00"; */
+"HwX-hQ-Y00.text" = "Nivel 1";
+
+/* Class = "UILabel"; text = "Awesome!\nYou have done"; ObjectID = "I3F-gW-AMp"; */
+"I3F-gW-AMp.text" = "Impresionante!\nHas hecho";
+
+/* Class = "UILabel"; text = "Current language: English"; ObjectID = "Jzk-Pz-pEd"; */
+"Jzk-Pz-pEd.text" = "Idioma actual: English";
+
+/* Class = "UILabel"; text = "Add reminder"; ObjectID = "KAm-eH-Hff"; */
+"KAm-eH-Hff.text" = "Agregar recordatorio";
+
+/* Class = "UILabel"; text = "Reports"; ObjectID = "QQT-W9-Dhb"; */
+"QQT-W9-Dhb.text" = "Informes";
+
+/* Class = "UITabBarItem"; title = "Plan"; ObjectID = "UCR-kx-bii"; */
+"UCR-kx-bii.title" = "Plan";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XEk-kV-LYD"; */
+"XEk-kV-LYD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Reminders"; ObjectID = "YVz-tE-rkn"; */
+"YVz-tE-rkn.text" = "Recordatorios";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "aYh-hQ-aXm"; */
+"aYh-hQ-aXm.text" = "Configuraciones";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "cSL-9u-R8n"; */
+"cSL-9u-R8n.text" = "Seleccione el idioma";
+
+/* Class = "UILabel"; text = "Doing Kegel 3 time a day can keep you healthy and gives you good results"; ObjectID = "eYO-Dc-VML"; */
+"eYO-Dc-VML.text" = "Hacer Kegel 3 veces al día puede mantenerte saludable y ofrece buenos resultados.";
+
+/* Class = "UITabBarItem"; title = "Learn"; ObjectID = "g4J-9H-5VU"; */
+"g4J-9H-5VU.title" = "Aprender";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "oBo-Ox-sCE"; */
+"oBo-Ox-sCE.text" = "2";
+
+/* Class = "UITabBarItem"; title = "Reports"; ObjectID = "ojL-cB-ZJT"; */
+"ojL-cB-ZJT.title" = "Informes";
+
+/* Class = "UILabel"; text = "Vibration Mode"; ObjectID = "qsd-Te-uqR"; */
+"qsd-Te-uqR.text" = "Modo de vibración";
+
+/* Class = "UILabel"; text = "Exercises"; ObjectID = "sjs-sI-Oau"; */
+"sjs-sI-Oau.text" = "Ejercicio";
+
+/* Class = "UILabel"; text = "Kegel"; ObjectID = "twC-06-vPY"; */
+"twC-06-vPY.text" = "Kegel";

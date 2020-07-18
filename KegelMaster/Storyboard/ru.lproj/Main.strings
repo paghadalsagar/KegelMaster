@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "Day 1"; ObjectID = "2Ys-Fs-ATK"; */
+"2Ys-Fs-ATK.text" = "День 1";
+
+/* Class = "UILabel"; text = "Repetition: X4"; ObjectID = "2i6-0f-sWj"; */
+"2i6-0f-sWj.text" = "Повторений: X4";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6HN-Ef-Mfb"; */
+"6HN-Ef-Mfb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Tense"; ObjectID = "A3J-2T-Knp"; */
+"A3J-2T-Knp.text" = "Напрячь";
+
+/* Class = "UILabel"; text = "Help Tutorial"; ObjectID = "Dv4-LW-ZL6"; */
+"Dv4-LW-ZL6.text" = "О Кегеле";
+
+/* Class = "UILabel"; text = "Kegel"; ObjectID = "Fkd-yS-Put"; */
+"Fkd-yS-Put.text" = "Kegel";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "GxH-bL-EI2"; */
+"GxH-bL-EI2.title" = "Настройки";
+
+/* Class = "UILabel"; text = "Level 1"; ObjectID = "HwX-hQ-Y00"; */
+"HwX-hQ-Y00.text" = "УРОВЕНЬ 1";
+
+/* Class = "UILabel"; text = "Awesome!\nYou have done"; ObjectID = "I3F-gW-AMp"; */
+"I3F-gW-AMp.text" = "Круто!\nВы сделали";
+
+/* Class = "UILabel"; text = "Current language: English"; ObjectID = "Jzk-Pz-pEd"; */
+"Jzk-Pz-pEd.text" = "Текущий язык: English";
+
+/* Class = "UILabel"; text = "Add reminder"; ObjectID = "KAm-eH-Hff"; */
+"KAm-eH-Hff.text" = "Добавить напоминание";
+
+/* Class = "UILabel"; text = "Reports"; ObjectID = "QQT-W9-Dhb"; */
+"QQT-W9-Dhb.text" = "Отчеты";
+
+/* Class = "UITabBarItem"; title = "Plan"; ObjectID = "UCR-kx-bii"; */
+"UCR-kx-bii.title" = "План";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XEk-kV-LYD"; */
+"XEk-kV-LYD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Reminders"; ObjectID = "YVz-tE-rkn"; */
+"YVz-tE-rkn.text" = "Напоминания";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "aYh-hQ-aXm"; */
+"aYh-hQ-aXm.text" = "Настройки";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "cSL-9u-R8n"; */
+"cSL-9u-R8n.text" = "Выберите язык";
+
+/* Class = "UILabel"; text = "Doing Kegel 3 time a day can keep you healthy and gives you good results"; ObjectID = "eYO-Dc-VML"; */
+"eYO-Dc-VML.text" = "Выполнение Кегеля 3 раза в день поможет вам сохранить здоровье и даст хорошие результаты.";
+
+/* Class = "UITabBarItem"; title = "Learn"; ObjectID = "g4J-9H-5VU"; */
+"g4J-9H-5VU.title" = "О Кегеле";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "oBo-Ox-sCE"; */
+"oBo-Ox-sCE.text" = "2";
+
+/* Class = "UITabBarItem"; title = "Reports"; ObjectID = "ojL-cB-ZJT"; */
+"ojL-cB-ZJT.title" = "Отчеты";
+
+/* Class = "UILabel"; text = "Vibration Mode"; ObjectID = "qsd-Te-uqR"; */
+"qsd-Te-uqR.text" = "Режим вибрации";
+
+/* Class = "UILabel"; text = "Exercises"; ObjectID = "sjs-sI-Oau"; */
+"sjs-sI-Oau.text" = "Упражнения";
+
+/* Class = "UILabel"; text = "Kegel"; ObjectID = "twC-06-vPY"; */
+"twC-06-vPY.text" = "Kegel";

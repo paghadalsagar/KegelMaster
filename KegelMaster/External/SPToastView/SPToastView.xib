@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Arcon-Regular.otf">
+            <string>Arcon-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SPToastView" customModule="PosterMaker" customModuleProvider="target">
+            <connections>
+                <outlet property="constraintViewBGBottom" destination="HFb-WJ-OTs" id="xyQ-J0-yKq"/>
+                <outlet property="imageViewAlert" destination="ejJ-IX-U7c" id="nBR-lD-0yF"/>
+                <outlet property="lblMessage" destination="oaC-IR-z2Q" id="00U-sp-3K3"/>
+                <outlet property="viewBG" destination="Xxx-je-yDE" id="3a8-h8-dBj"/>
+            </connections>
+        </placeholder>
+        <view multipleTouchEnabled="YES" contentMode="scaleToFill" id="Emc-cQ-kAW">
+            <rect key="frame" x="0.0" y="0.0" width="326" height="97"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Xxx-je-yDE">
+                    <rect key="frame" x="71.5" y="36" width="183" height="46"/>
+                    <subviews>
+                        <imageView hidden="YES" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ejJ-IX-U7c">
+                            <rect key="frame" x="10" y="23" width="0.0" height="0.0"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="ejJ-IX-U7c" secondAttribute="height" multiplier="1:1" id="b6A-Zp-7wx"/>
+                                <constraint firstAttribute="height" id="uHU-ji-xkj"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oaC-IR-z2Q">
+                            <rect key="frame" x="15" y="8" width="160" height="30"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="160" id="Cbf-eJ-FFv"/>
+                                <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="30" id="riO-NK-s7J"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Arcon-Regular" family="Arcon" pointSize="17"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    <gestureRecognizers/>
+                    <constraints>
+                        <constraint firstItem="oaC-IR-z2Q" firstAttribute="leading" secondItem="ejJ-IX-U7c" secondAttribute="trailing" constant="5" id="1CI-10-ASb"/>
+                        <constraint firstAttribute="bottom" secondItem="oaC-IR-z2Q" secondAttribute="bottom" constant="8" id="3d8-dS-yHI"/>
+                        <constraint firstItem="ejJ-IX-U7c" firstAttribute="centerY" secondItem="Xxx-je-yDE" secondAttribute="centerY" id="SE4-Hi-Q0X"/>
+                        <constraint firstItem="ejJ-IX-U7c" firstAttribute="leading" secondItem="Xxx-je-yDE" secondAttribute="leading" constant="10" id="XhU-TO-59h"/>
+                        <constraint firstAttribute="trailing" secondItem="oaC-IR-z2Q" secondAttribute="trailing" constant="8" id="nFx-tv-fZh"/>
+                        <constraint firstItem="oaC-IR-z2Q" firstAttribute="top" secondItem="Xxx-je-yDE" secondAttribute="top" constant="8" id="o5j-FI-d9B"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="8"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="Xxx-je-yDE" secondAttribute="bottom" constant="15" id="HFb-WJ-OTs"/>
+                <constraint firstItem="oaC-IR-z2Q" firstAttribute="width" relation="lessThanOrEqual" secondItem="Emc-cQ-kAW" secondAttribute="width" multiplier="0.8:1" id="XP3-iC-cod"/>
+                <constraint firstItem="Xxx-je-yDE" firstAttribute="centerX" secondItem="Emc-cQ-kAW" secondAttribute="centerX" id="ZT4-au-PC4"/>
+                <constraint firstItem="oaC-IR-z2Q" firstAttribute="height" relation="lessThanOrEqual" secondItem="Emc-cQ-kAW" secondAttribute="height" multiplier="0.4:1" id="yUA-59-4uc"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="6tB-vz-zJO"/>
+            <point key="canvasLocation" x="-3021.739130434783" y="-2199.4419642857142"/>
+        </view>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+    </objects>
+</document>

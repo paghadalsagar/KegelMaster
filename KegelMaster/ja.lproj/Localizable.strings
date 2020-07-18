@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  KegelMaster
+
+  Created by iMac on 16/07/20.
+  Copyright © 2020 iMac. All rights reserved.
+*/
+
+
+"Day" = "日";
+"LEVEL" = "レベル";
+"Level" = "レベル";
+"Tense" = "時制";
+"Relax" = "リラックス";
+"Repetition" = "繰り返し";
+
+"What are Kegel exercises for?" = "ケーゲル演習とは何ですか？";
+"Kegel exercises are necessary to strengthen the pelvic floor muscles and include strengthening the muscles of the uterus and bladder." = "ケーゲルエクササイズは、骨盤底の筋肉を強化し、子宮と膀胱の筋肉を強化するために必要です。";
+"according to research, Kegel exercises help prevent pelvic floor prolapse and prevent or control urinary incontinence." = "研究によると、ケーゲルの練習は骨盤底脱出を防ぎ、尿失禁を予防または制御するのに役立ちます。";
+
+"What are the benefits of these exercises?" = "これらの演習の利点は何ですか？";
+"BENEFITS: Kegel Exercises are effective in cases of urinary incontinence, vaginal prolapse caused by increased abdominal pressure." = "利点：ケーゲルエクササイズは、尿失禁、腹圧の上昇によって引き起こされる膣脱の場合に有効です。";
+"SEX LIFE: Kegel helps to improve blood circulation in the vagina, increase sexual arousal, get more pleasure from sex." = "性生活：ケーゲルは、膣内の血液循環を改善し、性的興奮を高め、セックスからより多くの喜びを得るのに役立ちます。";
+"PREGNANCY: Exercise can reduce pain during labor, as well as shorten the delivery time by relaxing and controlling the pelvic floor muscles." = "妊娠：運動は、骨盤底の筋肉をリラックスして制御することによって、分娩時の痛みを軽減し、納期を短縮することができます。";
+
+"What are Kegel exercises for ?" = "ケーゲル演習とは何ですか？";
+"Kegel exercises can be used in cases of weak pelvic floor muscles, pregnancy, aging, childbirth, overweight, etc." = "ケーゲル演習は、弱い骨盤底筋、妊娠、老化、出産、太りすぎなどの場合に使用することができます。";
+
+"How to do Kegel exercises correctly?" = "ケーゲル演習を正しく行うには？";
+"to strengthen the pelvic floor muscles, their rhythmic contraction is necessary." = "骨盤底筋を強化するためには、そのリズミカルな収縮が必要です。";
+
+"Where are the pelvic floor muscles located?" = "骨盤底筋はどこにありますか？";
+"the Muscles that contribute to slowing or stopping urination are the pelvic floor muscles." = "排尿の減速や停止に寄与する筋肉は骨盤底筋です。";
+"Insert your finger into the vagina and try to Compress the vaginal muscles. You should feel the vagina narrow and the pelvic floor rise up." = "指を膣に挿入し、膣の筋肉を圧迫してみてください。 膣が狭くなり、骨盤底が上がるように感じるはずです。";
+
+"Select language" = "選択した言語";
+"Current language" = "現在の言語";
+"Language already selected!" = "すでに選択された言語！";
+"Rest Day" = "休日";
+
+"Diamond user" = "ダイヤモンドユーザー";
+"No ads will display" = "広告は表示されません";
+"Unlock All Levels" = "すべてのレベルのロックを解除";
+"Unlimited Reminders" = "無制限のリマインダー";
+"TRY FOR FREE" = "無料でお試しください";
+"3 days free then" = "その後3日間無料";
+"per week.you can canel subscription at any time" = "毎週。いつでもサブスクリプションをキャンセルできます";
+"Your membership starts as soon as you set up payment and subscribe with itunes." = "メンバーシップは、支払いを設定してiTunesで購読するとすぐに始まります。";
+"Your weekly charge will occur on the last day of the current billing period. We’ll renew your membership for you(unless auto-renew is turned off 24 hours before the end of your billing cycle). Once you’re a member,you can manage your subscription or turn off auto-renewal under Account Settings." = "毎週の請求は、現在の請求期間の最終日に行われます。 メンバーシップは自動的に更新されます（自動更新が請求サイクルの終了の24時間前にオフにされている場合を除く）。 メンバーになると、サブスクリプションを管理したり、[アカウント設定]で自動更新をオフにしたりできます。";
+"RESTORE" = "戻す";
+"By continuing, you are agreeing to these" = "続行すると、これらに同意したことになります";
+"Terms." = "条項.";
+"See the" = "を参照してください";
+"privacy" = "プライバシー";
+"statement" = "ステートメント";

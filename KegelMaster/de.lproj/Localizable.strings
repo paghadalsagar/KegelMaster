@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  KegelMaster
+
+  Created by iMac on 16/07/20.
+  Copyright © 2020 iMac. All rights reserved.
+*/
+
+
+"Day" = "Tag";
+"LEVEL" = "Niveau";
+"Level" = "Niveau";
+"Tense" = "Tempus";
+"Relax" = "Entspannen";
+"Repetition" = "Wiederholung";
+
+"What are Kegel exercises for?" = "Was sind Kegel-übungen?";
+"Kegel exercises are necessary to strengthen the pelvic floor muscles and include strengthening the muscles of the uterus and bladder." = "Kegel-Übungen sind notwendig, um die Beckenbodenmuskulatur zu stärken und beinhalten die Stärkung der Gebärmutter-und Blasenmuskulatur.";
+"according to research, Kegel exercises help prevent pelvic floor prolapse and prevent or control urinary incontinence." = "nach den durchgeführten Studien helfen Kegel-übungen bei der Verhinderung von beckenbodenablagerungen und verhindern oder kontrollieren Harninkontinenz.";
+
+"What are the benefits of these exercises?" = "Was ist der nutzen dieser übungen?";
+"BENEFITS: Kegel Exercises are effective in cases of urinary incontinence, vaginal prolapse caused by increased abdominal pressure." = "NUTZEN: Kegel-Übungen sind wirksam bei Harninkontinenz, vaginaler Auslassung, die durch erhöhten Druck im Bauch verursacht wird.";
+"SEX LIFE: Kegel helps to improve blood circulation in the vagina, increase sexual arousal, get more pleasure from sex." = "SEXUALLEBEN: Kegel hilft, die Durchblutung der Vagina zu verbessern, die sexuelle Erregung zu erhöhen, mehr Sex zu genießen.";
+"PREGNANCY: Exercise can reduce pain during labor, as well as shorten the delivery time by relaxing and controlling the pelvic floor muscles." = "SCHWANGERSCHAFT: Übungen können Schmerzen bei der Arbeit reduzieren und die Geburtszeit durch Entspannung und Kontrolle der Beckenbodenmuskulatur verkürzen.";
+
+"What are Kegel exercises for ?" = "Was sind Kegel-übungen ?";
+"Kegel exercises can be used in cases of weak pelvic floor muscles, pregnancy, aging, childbirth, overweight, etc." = "Kegel-Übungen können bei schwachen Beckenbodenmuskeln, Schwangerschaft, Alterung, Geburt, übergewicht usw. verwendet werden.";
+
+"How to do Kegel exercises correctly?" = "Wie mache ich Kegel-übungen richtig?";
+"to strengthen the pelvic floor muscles, their rhythmic contraction is necessary." = "zur Stärkung der Beckenbodenmuskulatur ist eine rhythmische Kontraktion erforderlich.";
+
+"Where are the pelvic floor muscles located?" = "Wo sind die Beckenbodenmuskeln?";
+"the Muscles that contribute to slowing or stopping urination are the pelvic floor muscles." = "die Muskeln, die das Wasserlassen verlangsamen oder stoppen, sind die Beckenbodenmuskeln.";
+"Insert your finger into the vagina and try to Compress the vaginal muscles. You should feel the vagina narrow and the pelvic floor rise up." = "Schieben Sie Ihren Finger in die Vagina und versuchen Sie, Ihre vaginalmuskeln zu Komprimieren. Sie sollten spüren, wie sich die Vagina verengt und der Beckenboden nach oben steigt.";
+
+"Select language" = "Sprache auswählen";
+"Current language" = "Aktuelle Sprache";
+"Language already selected!" = "Sprache bereits ausgewählt!";
+"Rest Day" = "Ruhetag";
+
+"Diamond user" = "Diamantbenutzer";
+"No ads will display" = "Es werden keine Anzeigen geschaltet";
+"Unlock All Levels" = "Schalte alle Level frei";
+"Unlimited Reminders" = "Unbegrenzte Erinnerungen";
+"TRY FOR FREE" = "KOSTENLOS VERSUCHEN";
+"3 days free then" = "Dann 3 Tage frei";
+"per week.you can canel subscription at any time" = "pro Woche. Sie können das Abonnement jederzeit kündigen";
+"Your membership starts as soon as you set up payment and subscribe with itunes." = "Ihre Mitgliedschaft beginnt, sobald Sie die Zahlung eingerichtet und iTunes abonniert haben.";
+"Your weekly charge will occur on the last day of the current billing period. We’ll renew your membership for you(unless auto-renew is turned off 24 hours before the end of your billing cycle). Once you’re a member,you can manage your subscription or turn off auto-renewal under Account Settings." = "Ihre wöchentliche Abrechnung erfolgt am letzten Tag des aktuellen Abrechnungszeitraums. Wir verlängern Ihre Mitgliedschaft für Sie (es sei denn, die automatische Verlängerung ist 24 Stunden vor dem Ende Ihres Abrechnungszyklus deaktiviert). Sobald Sie Mitglied sind, können Sie Ihr Abonnement verwalten oder die automatische Verlängerung unter Kontoeinstellungen deaktivieren.";
+"RESTORE" = "WIEDERHERSTELLEN";
+"By continuing, you are agreeing to these" = "Wenn Sie fortfahren, stimmen Sie diesen zu";
+"Terms." = "Bedingungen.";
+"See the" = "Siehe die";
+"privacy" = "Privatsphäre";
+"statement" = "Aussage";

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Arcon-Regular.otf">
+            <string>Arcon-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SPActivtyIndicator" customModule="KegelMaster" customModuleProvider="target">
+            <connections>
+                <outlet property="ViewImageProgress" destination="pgZ-6c-zsl" id="9tL-VN-kPD"/>
+                <outlet property="constraintLblTitleWidth" destination="xdD-S6-34q" id="vx0-vd-Snt"/>
+                <outlet property="constraintProgressHeight" destination="1em-aO-pw0" id="smd-0V-xQJ"/>
+                <outlet property="lblTitle" destination="Gqe-eq-WgN" id="RvO-pR-D8y"/>
+                <outlet property="viewBG" destination="ktu-e7-u8q" id="1Ib-0u-DfU"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="467" height="181"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ktu-e7-u8q" userLabel="View BG">
+                    <rect key="frame" x="66" y="50.5" width="335" height="80"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="pgZ-6c-zsl">
+                            <rect key="frame" x="15" y="15" width="50" height="50"/>
+                            <subviews>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icn_Progress" translatesAutoresizingMaskIntoConstraints="NO" id="zWr-oh-vmI">
+                                    <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                    <color key="tintColor" red="0.30196078430000001" green="0.5450980392" blue="0.86666666670000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="50" id="1em-aO-pw0"/>
+                                        <constraint firstAttribute="width" secondItem="zWr-oh-vmI" secondAttribute="height" multiplier="1:1" id="Iq7-ng-ai8"/>
+                                    </constraints>
+                                </imageView>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="trailing" secondItem="zWr-oh-vmI" secondAttribute="trailing" id="55W-he-nHj"/>
+                                <constraint firstItem="zWr-oh-vmI" firstAttribute="top" secondItem="pgZ-6c-zsl" secondAttribute="top" id="BOY-ZQ-giu"/>
+                                <constraint firstAttribute="bottom" secondItem="zWr-oh-vmI" secondAttribute="bottom" id="HL7-pa-bnC"/>
+                                <constraint firstItem="zWr-oh-vmI" firstAttribute="leading" secondItem="pgZ-6c-zsl" secondAttribute="leading" id="fkN-WL-5dT"/>
+                            </constraints>
+                        </view>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gqe-eq-WgN">
+                            <rect key="frame" x="75" y="15" width="250" height="50"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="250" id="xdD-S6-34q"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Arcon-Regular" family="Arcon" pointSize="16"/>
+                            <color key="textColor" red="0.30588235294117649" green="0.80784313725490198" blue="0.85882352941176465" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="pgZ-6c-zsl" secondAttribute="bottom" constant="15" id="8AQ-1x-5H7"/>
+                        <constraint firstAttribute="trailing" secondItem="Gqe-eq-WgN" secondAttribute="trailing" constant="10" id="A7W-sQ-hyu"/>
+                        <constraint firstItem="Gqe-eq-WgN" firstAttribute="bottom" secondItem="pgZ-6c-zsl" secondAttribute="bottom" id="BND-nu-IM0"/>
+                        <constraint firstItem="Gqe-eq-WgN" firstAttribute="leading" secondItem="pgZ-6c-zsl" secondAttribute="trailing" constant="10" id="L0X-iH-Y4H"/>
+                        <constraint firstItem="pgZ-6c-zsl" firstAttribute="leading" secondItem="ktu-e7-u8q" secondAttribute="leading" constant="15" id="Qtz-Hr-bim"/>
+                        <constraint firstItem="Gqe-eq-WgN" firstAttribute="top" secondItem="pgZ-6c-zsl" secondAttribute="top" id="USr-oE-bJW"/>
+                        <constraint firstItem="pgZ-6c-zsl" firstAttribute="top" secondItem="ktu-e7-u8q" secondAttribute="top" constant="15" id="XKa-21-Q9r"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="5"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="ktu-e7-u8q" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="6MV-TY-Owg"/>
+                <constraint firstItem="ktu-e7-u8q" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="chO-aU-YpZ"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                    <real key="value" value="5"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <point key="canvasLocation" x="96.376811594202906" y="65.959821428571431"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="icn_Progress" width="50" height="50"/>
+    </resources>
+</document>

@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  KegelMaster
+
+  Created by iMac on 16/07/20.
+  Copyright © 2020 iMac. All rights reserved.
+*/
+
+
+"Day" = "journée";
+"LEVEL" = "Niveau";
+"Level" = "Niveau";
+"Tense" = "Tendu";
+"Relax" = "Se détendre";
+"Repetition" = "Répétition";
+
+"What are Kegel exercises for?" = "à quoi Servent les exercices de Kegel?";
+"Kegel exercises are necessary to strengthen the pelvic floor muscles and include strengthening the muscles of the uterus and bladder." = "les Exercices de Kegel sont nécessaires pour renforcer les muscles du plancher pelvien et comprennent le renforcement des muscles de l\'utérus et de la vessie.";
+"according to research, Kegel exercises help prevent pelvic floor prolapse and prevent or control urinary incontinence." = "Selon les recherches, les exercices de Kegel aident à prévenir l\'affaissement du plancher pelvien et à prévenir ou contrôler l\'incontinence urinaire.";
+
+"What are the benefits of these exercises?" = "quels sont les avantages de ces exercices?";
+"BENEFITS: Kegel Exercises are effective in cases of urinary incontinence, vaginal prolapse caused by increased abdominal pressure." = "avantages: les Exercices de Kegel sont efficaces en cas d\'incontinence urinaire, d\'abaissement du vagin causé par une pression abdominale accrue.";
+"SEX LIFE: Kegel helps to improve blood circulation in the vagina, increase sexual arousal, get more pleasure from sex." = "vie SEXUELLE: Kegel aide à améliorer la circulation sanguine dans le vagin, augmenter l\'excitation sexuelle, obtenir plus de plaisir du sexe.";
+"PREGNANCY: Exercise can reduce pain during labor, as well as shorten the delivery time by relaxing and controlling the pelvic floor muscles." = "grossesse: l\'Exercice peut réduire la douleur pendant le travail et réduire le temps d\'accouchement grâce à la relaxation et à la gestion des muscles du plancher pelvien.";
+
+"What are Kegel exercises for ?" = "à quoi Servent les exercices de Kegel ?";
+"Kegel exercises can be used in cases of weak pelvic floor muscles, pregnancy, aging, childbirth, overweight, etc." = "les Exercices de Kegel peuvent être utilisés en cas de faiblesse du plancher pelvien, de grossesse, de vieillissement, d\'accouchement, de surpoids, etc.";
+
+"How to do Kegel exercises correctly?" = "Comment faire les exercices de Kegel correctement?";
+"to strengthen the pelvic floor muscles, their rhythmic contraction is necessary." = "pour renforcer les muscles du plancher pelvien, une contraction rythmique est nécessaire.";
+
+"Where are the pelvic floor muscles located?" = "Où sont les muscles du plancher pelvien?";
+"the Muscles that contribute to slowing or stopping urination are the pelvic floor muscles." = "les Muscles qui contribuent au ralentissement ou à l\'arrêt de la miction sont les muscles du plancher pelvien.";
+"Insert your finger into the vagina and try to Compress the vaginal muscles. You should feel the vagina narrow and the pelvic floor rise up." = "Insérez votre doigt dans le vagin et essayez de Serrer les muscles du vagin. Vous devriez sentir le vagin se rétrécir et le plancher pelvien s\'élever.";
+
+"Select language" = "Sélectionnez la langue";
+"Current language" = "Langage courant";
+"Language already selected!" = "Langue déjà sélectionnée!";
+"Rest Day" = "Jour de repos";
+
+"Diamond user" = "Utilisateur Diamond";
+"No ads will display" = "Aucune annonce ne s'affichera";
+"Unlock All Levels" = "Déverrouiller tous les niveaux";
+"Unlimited Reminders" = "Rappels illimités";
+"TRY FOR FREE" = "ESSAYER GRATUITEMENT";
+"3 days free then" = "3 jours gratuits puis";
+"per week.you can canel subscription at any time" = "par semaine, vous pouvez vous abonner à tout moment";
+"Your membership starts as soon as you set up payment and subscribe with itunes." = "Votre adhésion commence dès que vous configurez le paiement et que vous vous abonnez avec iTunes.";
+"Your weekly charge will occur on the last day of the current billing period. We’ll renew your membership for you(unless auto-renew is turned off 24 hours before the end of your billing cycle). Once you’re a member,you can manage your subscription or turn off auto-renewal under Account Settings." = "Votre facturation hebdomadaire aura lieu le dernier jour de la période de facturation en cours. Nous renouvellerons votre abonnement pour vous (sauf si le renouvellement automatique est désactivé 24 heures avant la fin de votre cycle de facturation). Une fois membre, vous pouvez gérer votre abonnement ou désactiver le renouvellement automatique sous Paramètres du compte.";
+"RESTORE" = "RESTAURER";
+"By continuing, you are agreeing to these" = "En continuant, vous acceptez ces";
+"Terms." = "termes.";
+"See the" = "Voir le";
+"privacy" = "intimité";
+"statement" = "déclaration";

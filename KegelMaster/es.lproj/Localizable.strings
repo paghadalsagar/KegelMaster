@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  KegelMaster
+
+  Created by iMac on 16/07/20.
+  Copyright © 2020 iMac. All rights reserved.
+*/
+
+
+"Day" = "Día";
+"LEVEL" = "Nivel";
+"Level" = "Nivel";
+"Tense" = "Tenso";
+"Relax" = "Relajarse";
+"Repetition" = "Repetición";
+
+"What are Kegel exercises for?" = "¿Para qué sirven los ejercicios de Kegel?";
+"Kegel exercises are necessary to strengthen the pelvic floor muscles and include strengthening the muscles of the uterus and bladder." = "los Ejercicios de Kegel son esenciales para fortalecer los músculos del piso pélvico e incluyen fortalecer los músculos del útero y la vejiga.";
+"according to research, Kegel exercises help prevent pelvic floor prolapse and prevent or control urinary incontinence." = "según los estudios realizados, los ejercicios de Kegel ayudan a prevenir la caída de los órganos del Suelo pélvico y previenen o controlan la incontinencia urinaria.";
+
+"What are the benefits of these exercises?" = "¿Cuál es el beneficio de estos ejercicios?";
+"BENEFITS: Kegel Exercises are effective in cases of urinary incontinence, vaginal prolapse caused by increased abdominal pressure." = "beneficio: los Ejercicios de Kegel son efectivos en caso de incontinencia urinaria, disminución de la vagina causada por el aumento de la presión abdominal.";
+"SEX LIFE: Kegel helps to improve blood circulation in the vagina, increase sexual arousal, get more pleasure from sex." = "vida SEXUAL: Kegel ayuda a mejorar la circulación sanguínea en la vagina, aumenta la excitación sexual, disfruta más del sexo.";
+"PREGNANCY: Exercise can reduce pain during labor, as well as shorten the delivery time by relaxing and controlling the pelvic floor muscles." = "embarazo: el Ejercicio puede reducir el dolor durante el trabajo de parto, así como reducir el tiempo de parto a través de la relajación y el control de los músculos del piso pélvico.";
+
+"What are Kegel exercises for ?" = "¿Para qué sirven los ejercicios de Kegel ?";
+"Kegel exercises can be used in cases of weak pelvic floor muscles, pregnancy, aging, childbirth, overweight, etc." = "los Ejercicios de Kegel se pueden usar en caso de músculos débiles del Suelo pélvico, embarazo, envejecimiento, parto, sobrepeso, etc.";
+
+"How to do Kegel exercises correctly?" = "¿cómo hacer los ejercicios de Kegel correctamente?";
+"to strengthen the pelvic floor muscles, their rhythmic contraction is necessary." = "para fortalecer los músculos del Suelo pélvico, se necesita una contracción rítmica.";
+
+"Where are the pelvic floor muscles located?" = "¿Dónde están los músculos del piso pélvico?";
+"the Muscles that contribute to slowing or stopping urination are the pelvic floor muscles." = "los Músculos que contribuyen a disminuir o detener la micción son los músculos del piso pélvico.";
+"Insert your finger into the vagina and try to Compress the vaginal muscles. You should feel the vagina narrow and the pelvic floor rise up." = "Inserte un dedo en la vagina e intente Apretar los músculos de la vagina. Deberías sentir que la vagina se estrecha y el Suelo pélvico se eleva hacia arriba.";
+
+"Select language" = "Seleccione el idioma ";
+"Current language" = "Idioma actual";
+"Language already selected!" = "Idioma ya seleccionado!";
+"Rest Day" = "Día de descanso";
+
+"Diamond user" = "Usuario de diamantes";
+"No ads will display" = "No se mostrarán anuncios";
+"Unlock All Levels" = "Desbloquea todos los niveles";
+"Unlimited Reminders" = "Recordatorios Ilimitados";
+"TRY FOR FREE" = "PRUEBA GRATIS";
+"3 days free then" = "3 días libres entonces";
+"per week.you can canel subscription at any time" = "por semana. puede canalizar la suscripción en cualquier momento";
+"Your membership starts as soon as you set up payment and subscribe with itunes." = "Su membresía comienza tan pronto como configura el pago y se suscribe con iTunes.";
+"Your weekly charge will occur on the last day of the current billing period. We’ll renew your membership for you(unless auto-renew is turned off 24 hours before the end of your billing cycle). Once you’re a member,you can manage your subscription or turn off auto-renewal under Account Settings." = "Su cargo semanal se realizará el último día del período de facturación actual. Renovaremos su membresía por usted (a menos que la renovación automática esté desactivada 24 horas antes del final de su ciclo de facturación). Una vez que sea miembro, puede administrar su suscripción o desactivar la renovación automática en Configuración de la cuenta.";
+"RESTORE" = "RESTAURAR";
+"By continuing, you are agreeing to these" = "Al continuar, usted acepta estas";
+"Terms." = "Condiciones.";
+"See the" = "Ver el";
+"privacy" = "intimidad";
+"statement" = "declaración";

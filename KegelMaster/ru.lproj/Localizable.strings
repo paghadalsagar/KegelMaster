@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  KegelMaster
+
+  Created by iMac on 16/07/20.
+  Copyright © 2020 iMac. All rights reserved.
+*/
+
+"Day" = "День";
+"LEVEL" = "Уровень";
+"Level" = "Уровень";
+"Tense" = "Напрячь";
+"Relax" = "Расслабить";
+"Repetition" = "Повторений";
+
+"What are Kegel exercises for?" = "Для чего нужны упражнения Кегеля?";
+"Kegel exercises are necessary to strengthen the pelvic floor muscles and include strengthening the muscles of the uterus and bladder." = "Упражнения Кегеля необходимы для укрепления мышц тазового дна и включают в себя укрепление мышц матки и мочевого пузыря.";
+"according to research, Kegel exercises help prevent pelvic floor prolapse and prevent or control urinary incontinence." = "Согласно проведённым исследованиям, упражнения Кегеля помогают при профилактике опущения органов тазового дна и предотвращают или контролируют недержание мочи.";
+
+"What are the benefits of these exercises?" = "В чем заключается польза данных упражнений?";
+"BENEFITS: Kegel Exercises are effective in cases of urinary incontinence, vaginal prolapse caused by increased abdominal pressure." = "ПОЛЬЗА: Упражнения Кегеля эффективны в случае недержания мочи, опущения влагалища, вызванное повышенным давлением в животе.";
+"SEX LIFE: Kegel helps to improve blood circulation in the vagina, increase sexual arousal, get more pleasure from sex." = "СЕКСУАЛЬНАЯ ЖИЗНЬ: Кегель помогает улучшить кровообращение во влагалище, увеличить сексуальное возбуждение, получите большее удовольствие от секса.";
+"PREGNANCY: Exercise can reduce pain during labor, as well as shorten the delivery time by relaxing and controlling the pelvic floor muscles." = "БЕРЕМЕННОСТЬ: Упражнения способны уменьшить боль при родовой деятельности, а также сократить время родов благодаря расслаблению и управлению мышцами тазового дна.";
+
+"What are Kegel exercises for ?" = "Для чего нужны упражнения Кегеля ?";
+"Kegel exercises can be used in cases of weak pelvic floor muscles, pregnancy, aging, childbirth, overweight, etc." = "Упражнения Кегеля можно использовать в случае слабых мышц тазового дна, беременности, старения, родов, избыточного веса и т. д.";
+
+"How to do Kegel exercises correctly?" = "Как правильно делать упражнения Кегеля?";
+"to strengthen the pelvic floor muscles, their rhythmic contraction is necessary." = "Для укрепления мышц тазового дна необходимо их ритмичное сокращение.";
+
+"Where are the pelvic floor muscles located?" = "Где находятся мышцы тазового дна?";
+"the Muscles that contribute to slowing or stopping urination are the pelvic floor muscles." = "Мышцы, которые способствуют замедлению или остановке мочеиспускания являются мышцами тазового дна.";
+"Insert your finger into the vagina and try to Compress the vaginal muscles. You should feel the vagina narrow and the pelvic floor rise up." = "Вставьте палец во влагалище и попытайтесь Сжать мышцы влагалища. Вы должны почувствовать как влагалище сужается, а тазовое дно поднимается вверх.";
+
+"Select language" = "Выберите язык ";
+"Current language" = "Текущий язык";
+"Language already selected!" = "Язык уже выбран!";
+"Rest Day" = "День отдыха";
+
+"Diamond user" = "Алмазный пользователь";
+"No ads will display" = "Объявления не будут отображаться";
+"Unlock All Levels" = "Разблокировать все уровни";
+"Unlimited Reminders" = "Неограниченное количество напоминаний";
+"TRY FOR FREE" = "ПОПРОБУЙ БЕСПЛАТНО";
+"3 days free then" = "3 дня бесплатно";
+"per week.you can canel subscription at any time" = "втечении недели. Вы можете подписаться на канал в любое время.";
+"Your membership starts as soon as you set up payment and subscribe with itunes." = "Ваше членство начинается, как только вы настроите платеж и подпишитесь на itunes.";
+"Your weekly charge will occur on the last day of the current billing period. We’ll renew your membership for you(unless auto-renew is turned off 24 hours before the end of your billing cycle). Once you’re a member,you can manage your subscription or turn off auto-renewal under Account Settings." = "Ваша еженедельная оплата произойдет в последний день текущего расчетного периода. Мы продлим ваше членство для вас (если автоматическое продление не будет отключено за 24 часа до окончания вашего платежного цикла). Как только вы станете участником, вы можете управлять своей подпиской или отключить автоматическое обновление в настройках учетной записи." ;
+"RESTORE" = "ВОССТАНОВИТЬ";
+"By continuing, you are agreeing to these" = "Продолжая, вы соглашаетесь с этими";
+"Terms." = "Условия.";
+"See the" = "Увидеть";
+"privacy" = "Конфиденциальность";
+"statement" = "заявление";
